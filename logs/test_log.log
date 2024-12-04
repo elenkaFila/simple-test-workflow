@@ -1,0 +1,21 @@
+2024-12-04 15:13:22,841 - root - INFO - test_login_in_account has started
+2024-12-04 15:13:30,335 - root - INFO - Login successful
+2024-12-04 15:13:35,853 - root - INFO - test_login_in_account has started
+2024-12-04 15:13:41,962 - root - INFO - Login successful
+2024-12-04 15:13:45,885 - root - INFO - test_login_in_account has started
+2024-12-04 15:13:51,701 - root - INFO - Login successful
+2024-12-04 15:27:53,538 - driver - INFO - driver ===> Test test_login_in_account[test-test] started at 2024-12-04 15:27:53.538068
+2024-12-04 15:27:59,863 - driver - INFO - driver ===> Test test_login_in_account[test1-test1] started at 2024-12-04 15:27:59.863096
+2024-12-04 15:28:04,174 - driver - INFO - driver ===> Test test_login_in_account[test2-tes2t] started at 2024-12-04 15:28:04.174821
+2024-12-04 15:30:13,521 - driver - INFO - driver ===> Test test_login_in_account[test-test] started at 2024-12-04 15:30:13.521717
+2024-12-04 15:30:13,521 - driver - INFO - Browser: chrome 
+2024-12-04 15:30:13,523 - root - INFO - test_login_in_account has started
+2024-12-04 15:30:21,178 - root - INFO - Login successful
+2024-12-04 15:30:25,345 - driver - INFO - driver ===> Test test_login_in_account[test1-test1] started at 2024-12-04 15:30:25.345384
+2024-12-04 15:30:25,346 - driver - INFO - Browser: chrome 
+2024-12-04 15:30:25,347 - root - INFO - test_login_in_account has started
+2024-12-04 15:30:30,992 - root - INFO - Login successful
+2024-12-04 15:30:34,408 - driver - INFO - driver ===> Test test_login_in_account[test2-tes2t] started at 2024-12-04 15:30:34.408900
+2024-12-04 15:30:34,408 - driver - INFO - Browser: chrome 
+2024-12-04 15:30:34,410 - root - INFO - test_login_in_account has started
+2024-12-04 15:30:39,898 - root - INFO - Login successful
